@@ -9,7 +9,7 @@ public class SingleTon01 {
     }
 }
 
-class GirlFriend {
+ class GirlFriend {
     private String name;
 
     private static GirlFriend gf = new GirlFriend("小红");
