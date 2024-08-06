@@ -1,4 +1,4 @@
-package com.itheima.methodreference;
+package com.ss.methodreference;
 
 import java.util.Arrays;
 import java.util.Comparator;

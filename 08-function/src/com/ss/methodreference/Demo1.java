@@ -1,8 +1,8 @@
-package com.itheima.methodreference;
+package com.ss.methodreference;
 
 import java.util.Arrays;
 
-public class Demo2 {
+public class Demo1 {
     public static void main(String[] args) {
         Student[] students = new Student[6];
         students[0] = new Student("殷素素", 35, 171.5, '女');
@@ -12,10 +12,11 @@ public class Demo2 {
         students[4] = new Student("赵敏", 27, 167.5, '女');
         students[5] = new Student("刘亦菲", 36, 168, '女');
 
-        Student t = new Student();;
-//        Arrays.sort(students, (s1, s2) -> t.compareByHeight(s1, s2));
+//        Arrays.sort(students, (s1, s2) -> s1.getAge() - s2.getAge());
 
-        Arrays.sort(students, t::compareByHeight);
+//        Arrays.sort(students, (s1, s2) -> Student.compareByAge(s1, s2));
+
+        Arrays.sort(students, Student::compareByAge);
 
 
     }

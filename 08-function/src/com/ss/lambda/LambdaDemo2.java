@@ -1,4 +1,4 @@
-package com.itheima.lambda;
+package com.ss.lambda;
 
 import com.itheima.innerclass.Student;
 

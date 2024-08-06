@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/07-genericity/07-genericity.iml" filepath="$PROJECT_DIR$/07-genericity/07-genericity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-function/08-function.iml" filepath="$PROJECT_DIR$/08-function/08-function.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSe.iml" filepath="$PROJECT_DIR$/JavaSe.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/chapter07/chapter07.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />

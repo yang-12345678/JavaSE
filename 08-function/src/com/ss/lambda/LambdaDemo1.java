@@ -1,4 +1,4 @@
-package com.itheima.lambda;
+package com.ss.lambda;
 
 public class LambdaDemo1 {
     public static void main(String[] args) {

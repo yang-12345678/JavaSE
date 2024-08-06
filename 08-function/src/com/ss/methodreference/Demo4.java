@@ -1,4 +1,4 @@
-package com.itheima.methodreference;
+package com.ss.methodreference;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
