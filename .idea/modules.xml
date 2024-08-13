@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-oop/day07-oop.iml" filepath="$PROJECT_DIR$/day07-oop/day07-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/day08-oop/day08-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-reflect-annotation-proxy/junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/junit-reflect-annotation-proxy/junit-reflect-annotation-proxy.iml" />
     </modules>
   </component>
 </project>
