@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-genericity/07-genericity.iml" filepath="$PROJECT_DIR$/07-genericity/07-genericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-function/08-function.iml" filepath="$PROJECT_DIR$/08-function/08-function.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-API/10-API.iml" filepath="$PROJECT_DIR$/10-API/10-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-collection/11-collection.iml" filepath="$PROJECT_DIR$/11-collection/11-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-file-io/14-file-io.iml" filepath="$PROJECT_DIR$/14-file-io/14-file-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/15-junit-reflect-annotation-proxy/15-junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/15-junit-reflect-annotation-proxy/15-junit-reflect-annotation-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSe.iml" filepath="$PROJECT_DIR$/JavaSe.iml" />
