@@ -26,6 +26,6 @@ public class ListDemo1 {
         System.out.println(names);
 
         // 获取元素
-        System.out.println(names.get(0);
+        System.out.println(names.get(0));
     }
 }
